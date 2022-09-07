@@ -6,17 +6,7 @@
                 "${workspaceFolder}/**",
                 "/opt/ros/noetic/include/**",
                 "/usr/include/opencv4/**"
-            ],
-            "defines": [],
-            "compilerPath": "/usr/bin/gcc",
-            "cStandard": "gnu17",
-            "cppStandard": "gnu++14",
-            "intelliSenseMode": "linux-gcc-x64"
-        },
-        {
-            "name": "abcd",
-            "includePath": [
-                "${workspaceFolder}/**"
+
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",

@@ -6,3 +6,5 @@
 *~
 */models/iris/*.sdf
 *.user
+rotors_gazebo/src/roi.cpp
+rotors_gazebo/src/track.cpp
