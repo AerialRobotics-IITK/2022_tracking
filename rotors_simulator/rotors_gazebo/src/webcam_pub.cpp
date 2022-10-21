@@ -3,10 +3,7 @@
 #include <opencv2/highgui/highgui.hpp>
 #include <cv_bridge/cv_bridge.h>
 
-// Author: Addison Sears-Collins
-// Website: https://automaticaddison.com
-// Description: A basic image subscriber for ROS in C++
-// Date: June 27, 2020
+
 cv::Mat roi_image;
 int counter = 0;
 void imageCallback(const sensor_msgs::ImageConstPtr &msg)
@@ -23,7 +20,7 @@ void imageCallback(const sensor_msgs::ImageConstPtr &msg)
 
   try
   {
-
+    
     // Convert the ROS message
     cv_ptr = cv_bridge::toCvCopy(msg, "bgr8");
 
@@ -36,12 +33,12 @@ void imageCallback(const sensor_msgs::ImageConstPtr &msg)
       cv::Mat roi_image = current_frame;
       cv::Rect2d r = selectROI(roi_image);
       cv::Mat imCrop = roi_image(r);
-      cv::imshow("Image", imCrop);
+      cv::imshow("ROI Cropped Image", imCrop);
       counter++;
     }
 
     // // Display the current frame
-    cv::imshow("view", current_frame);
+    cv::imshow("Live view", current_frame);
 
     // // Display frame for 30 milliseconds
     cv::waitKey(30);

@@ -103,9 +103,9 @@ add_executable(hovering_example src/hovering_example.cpp)
 target_link_libraries(hovering_example ${catkin_LIBRARIES})
 add_dependencies(hovering_example ${catkin_EXPORTED_TARGETS})
 
-add_executable(roi src/roi.cpp)
-target_link_libraries(roi ${catkin_LIBRARIES})
-add_dependencies(roi ${catkin_EXPORTED_TARGETS})
+# add_executable(roi src/roi.cpp)
+# target_link_libraries(roi ${catkin_LIBRARIES})
+# add_dependencies(roi ${catkin_EXPORTED_TARGETS})
 
 foreach(dir launch models resource worlds)
    install(DIRECTORY ${dir}/
