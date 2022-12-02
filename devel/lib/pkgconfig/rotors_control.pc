@@ -1,0 +1,1 @@
+/home/harshit/2022_tracking/devel/.private/rotors_control/lib/pkgconfig/rotors_control.pc

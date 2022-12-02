@@ -1,0 +1,1 @@
+/home/harshit/2022_tracking/devel/.private/rotors_comm/share/roseus/ros/rotors_comm/manifest.l

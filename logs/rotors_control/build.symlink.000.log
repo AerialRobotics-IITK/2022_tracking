@@ -1,0 +1,7 @@
+Symlinking /home/harshit/2022_tracking/devel/share/rotors_control/cmake/rotors_controlConfig.cmake
+Symlinking /home/harshit/2022_tracking/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake
+Symlinking /home/harshit/2022_tracking/devel/lib/liblee_position_controller.so
+Symlinking /home/harshit/2022_tracking/devel/lib/libroll_pitch_yawrate_thrust_controller.so
+Symlinking /home/harshit/2022_tracking/devel/lib/rotors_control/lee_position_controller_node
+Symlinking /home/harshit/2022_tracking/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node
+Symlinking /home/harshit/2022_tracking/devel/lib/pkgconfig/rotors_control.pc

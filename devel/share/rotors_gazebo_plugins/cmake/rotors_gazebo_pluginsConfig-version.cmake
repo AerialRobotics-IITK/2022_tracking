@@ -1,0 +1,1 @@
+/home/harshit/2022_tracking/devel/.private/rotors_gazebo_plugins/share/rotors_gazebo_plugins/cmake/rotors_gazebo_pluginsConfig-version.cmake

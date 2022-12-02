@@ -1,0 +1,6 @@
+devel_space: /home/harshit/2022_tracking/src/rotors_simulator/rotors_gazebo/devel
+install: false
+install_space: /home/harshit/2022_tracking/src/rotors_simulator/rotors_gazebo/install
+profile: default
+source_space: /home/harshit/2022_tracking/src/rotors_simulator/rotors_gazebo/src
+workspace: /home/harshit/2022_tracking/src/rotors_simulator/rotors_gazebo

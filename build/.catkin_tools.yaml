@@ -1,0 +1,6 @@
+devel_space: /home/harshit/2022_tracking/devel
+install: false
+install_space: /home/harshit/2022_tracking/install
+profile: default
+source_space: /home/harshit/2022_tracking/src
+workspace: /home/harshit/2022_tracking
