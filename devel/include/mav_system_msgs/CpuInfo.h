@@ -1,1 +1,0 @@
-/home/harshit/2022_tracking/devel/.private/mav_system_msgs/include/mav_system_msgs/CpuInfo.h

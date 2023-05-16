@@ -1,8 +1,0 @@
-Linked: (/home/harshit/2022_tracking/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake, /home/harshit/2022_tracking/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake)
-Linked: (/home/harshit/2022_tracking/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake, /home/harshit/2022_tracking/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake)
-Linked: (/home/harshit/2022_tracking/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc, /home/harshit/2022_tracking/devel/lib/pkgconfig/rotors_gazebo.pc)
-Linked: (/home/harshit/2022_tracking/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file, /home/harshit/2022_tracking/devel/lib/rotors_gazebo/waypoint_publisher_file)
-Linked: (/home/harshit/2022_tracking/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example, /home/harshit/2022_tracking/devel/lib/rotors_gazebo/hovering_example)
-Symlinking /home/harshit/2022_tracking/devel/lib/rotors_gazebo/colour_based_detection
-Linked: (/home/harshit/2022_tracking/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher, /home/harshit/2022_tracking/devel/lib/rotors_gazebo/waypoint_publisher)
-Linked: (/home/harshit/2022_tracking/devel/.private/rotors_gazebo/lib/rotors_gazebo/webcam_pub, /home/harshit/2022_tracking/devel/lib/rotors_gazebo/webcam_pub)

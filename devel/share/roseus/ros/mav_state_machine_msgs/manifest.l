@@ -1,1 +1,0 @@
-/home/harshit/2022_tracking/devel/.private/mav_state_machine_msgs/share/roseus/ros/mav_state_machine_msgs/manifest.l

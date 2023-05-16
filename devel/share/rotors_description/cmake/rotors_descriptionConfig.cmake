@@ -1,1 +1,0 @@
-/home/harshit/2022_tracking/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig.cmake

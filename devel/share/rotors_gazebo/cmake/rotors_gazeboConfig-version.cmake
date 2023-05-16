@@ -1,1 +1,0 @@
-/home/harshit/2022_tracking/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake

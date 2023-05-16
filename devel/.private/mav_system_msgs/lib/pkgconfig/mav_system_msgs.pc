@@ -1,8 +1,0 @@
-prefix=/home/harshit/2022_tracking/devel/.private/mav_system_msgs
-
-Name: mav_system_msgs
-Description: Description of mav_system_msgs
-Version: 0.0.0
-Cflags: -I/home/harshit/2022_tracking/devel/.private/mav_system_msgs/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime std_msgs

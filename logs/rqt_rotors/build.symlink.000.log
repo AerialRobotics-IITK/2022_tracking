@@ -1,6 +1,0 @@
-Symlinking /home/harshit/2022_tracking/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake
-Symlinking /home/harshit/2022_tracking/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake
-Symlinking /home/harshit/2022_tracking/devel/lib/pkgconfig/rqt_rotors.pc
-Symlinking /home/harshit/2022_tracking/devel/lib/python3/dist-packages/rqt_rotors/__init__.py
-Symlinking /home/harshit/2022_tracking/devel/bin/hil_plugin
-Symlinking /home/harshit/2022_tracking/devel/bin/cmake.lock

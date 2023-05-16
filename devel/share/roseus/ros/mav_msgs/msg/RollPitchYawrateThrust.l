@@ -1,1 +1,0 @@
-/home/harshit/2022_tracking/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l

@@ -1,1 +1,0 @@
-/home/harshit/2022_tracking/devel/.private/rotors_comm/share/gennodejs/ros/rotors_comm/srv/RecordRosbag.js
