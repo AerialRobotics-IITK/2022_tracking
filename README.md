@@ -43,7 +43,7 @@ sudo ldconfig
 mkdir -p ~/tracking_ws/src
 cd ~/tracking_ws/src
 catkin init
-git clone <repo_link>
+git clone git@github.com:AerialRobotics-IITK/2022_tracking.git
 wstool init
 wstool merge tracking/install/install_ssh.rosinstall
 wstool update
