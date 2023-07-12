@@ -45,10 +45,11 @@ cd ~/tracking_ws/src
 catkin init
 git clone git@github.com:AerialRobotics-IITK/2022_tracking.git
 wstool init
-wstool merge tracking/install/install_ssh.rosinstall
+wstool merge 2022_tracking/install/install_ssh.rosinstall
 wstool update
+cd ..
 catkin build
-echo "source ~/traking_ws/devel/setup.bash" >> ~/.bashrc
+echo "source ~/tracking_ws/devel/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
 
